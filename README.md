@@ -4,15 +4,15 @@
 FOC Linear Motor 是一個微型的直線電動機。
 
 ## 概要
-1. 體積小巧 : 58*20*23mm
+1. 體積小巧 : 58 x 20 x 23mm
 2. 移動距離 : 20mm
 3. 電源輸入 : 5V/2A
 4. MCU : STM32F405
 5. 帶有電流感測、電壓感測、中心抽頭感測
 6. 基於條型編碼器和End-Stop估測位置
 
-##其他說明:
+## 其他說明:
 firmware 待更新
 
-## Schematic
+## 電路板3D圖示
 ![image](https://github.com/DecXlll/FOC-Linear-Motor/blob/main/img/img2.png)
