@@ -14,5 +14,5 @@ FOC Linear Motor 是一個微型的直線電動機。
 ## 其他說明:
 firmware 待更新
 
-## 電路板3D圖示
+## 電路板
 ![image](https://github.com/DecXlll/FOC-Linear-Motor/blob/main/img/img2.png)
